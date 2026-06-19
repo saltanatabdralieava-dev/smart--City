@@ -1,0 +1,6 @@
+{
+  "name": "Smart Tokmok",
+  "description": "Единая цифровая платформа Smart City и Мэрии города Токмок для жителей, муниципальных служб и мэра",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
